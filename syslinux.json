@@ -8,7 +8,7 @@
     "url": "http://www.sysresccd.org/",
     "releases": [
       {
-        "url": "https://sourceforge.net/projects/oknha/files/test.img/download",
+        "url": "https://www.googleapis.com/drive/v3/files/10OPbWJO4di_zzh5xjHtIZLLI5NDsOVeJ?alt=media&key=AIzaSyCVBaOtzUkPQCbU2d9stgnzcx5CZTGKJZg",
         "arch": "x86",
         "version": "7.00",
         "size": 699400192
