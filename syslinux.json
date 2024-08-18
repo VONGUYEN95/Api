@@ -1,17 +1,17 @@
 [
   {
-    "id": "systemrescuecd",
-    "name": "SystemRescueCD",
+    "id": "anhdvboot-W10-11_64bit",
+    "name": "anhdvboot-W10-11_64bit",
     "tags": [
       "nonhybrid"
     ],
-    "url": "http://www.sysresccd.org/",
+    "url": "https://anhdvboot.com/",
     "releases": [
       {
         "url": "https://www.googleapis.com/drive/v3/files/10OPbWJO4di_zzh5xjHtIZLLI5NDsOVeJ?alt=media&key=AIzaSyCVBaOtzUkPQCbU2d9stgnzcx5CZTGKJZg",
-        "arch": "x86",
-        "version": "7.00",
-        "size": 699400192
+        "arch": "x64",
+        "version": "10-11",
+        "size": 26843545600
       }
     ],
     "path": "/home/runner/work/distscraper/distscraper/scrapers/systemrescuecd.js"
