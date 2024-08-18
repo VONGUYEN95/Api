@@ -2,17 +2,16 @@
   {
     "id": "anhdvboot-W10-11_64bit",
     "name": "anhdvboot-W10-11_64bit",
-    "tags": [
-      "nonhybrid"
-    ],
+    "tags": ["nonhybrid"],
     "url": "https://anhdvboot.com/",
     "releases": [
       {
         "url": "https://officefree-my.sharepoint.com/personal/vonguyen_officefree_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=297d9836-b53a-416e-befd-8d8ead2c7eaa&Translate=false&tempauth=v1.eyJzaXRlaWQiOiI1NWQzNGY1Yy1kZjdkLTQ2ZjAtOTU2YS02YTFmYzIxYTYxNjUiLCJhdWQiOiIwMDAwMDAwMy0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAvb2ZmaWNlZnJlZS1teS5zaGFyZXBvaW50LmNvbUAwYjQzYTZlNS02OTgxLTQ1ODEtYWUyNC1mZDhkNWY2M2FiZmYiLCJleHAiOiIxNzIzOTgwNzY4In0.CgoKBHNuaWQSAjQzEgsIgqKMs-Tenz0QBRoLMTEzLjIzLjQ5LjQiFG1pY3Jvc29mdC5zaGFyZXBvaW50KixMbEF6ZUZJQm1qWE92SXVLQ0NoV2pWYU1yci9ESkFIbERiMFIvV2JTd2ZjPTCpATgBQhChR3OM0_AAMK11rlo8R2NPShBoYXNoZWRwcm9vZnRva2VuUghbImttc2kiXWIEdHJ1ZWokMzdhNTVkM2MtODBiYi00NTAwLWFhZTYtNzEwNWVkMGMxZmVhcikwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDE1MDJhYjdlZUBsaXZlLmNvbXoBMMIBMzAjLmZ8bWVtYmVyc2hpcHx2b25ndXllbkBvZmZpY2VmcmVlLm9ubWljcm9zb2Z0LmNvbcgBAQ.QZHdztdFMrxdjM-lMpsEOhnZJt5a2CmnSsSf5rdArfk",
         "arch": "x64",
         "version": "2024",
-        "size": 26843545600
- }
+        "size": 26843545600,
+        "filename": "anhdvboot-W10-11_64bit.iso"
+      }
     ],
     "path": "/home/runner/work/distscraper/distscraper/scrapers/systemrescuecd.js"
   }
