@@ -5,13 +5,13 @@
     "tags": [
       "nonhybrid"
     ],
-    "url": "https://officefree-my.sharepoint.com",
+    "url": "https://tails.boum.org/",
     "releases": [
       {
         "url": "https://officefree-my.sharepoint.com/personal/vonguyen_officefree_onmicrosoft_com/_layouts/15/download.aspx?UniqueId=297d9836-b53a-416e-befd-8d8ead2c7eaa",
-        "arch": "x64",
-        "version": "24",
-        "size": 2684354560
+        "arch": "amd64",
+        "version": "2024",
+        "size": 26843545600
       }
     ],
     "path": "/home/runner/work/distscraper/distscraper/scrapers/systemrescuecd.js"
